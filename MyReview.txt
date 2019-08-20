@@ -2,14 +2,19 @@
 
 Tenacity and drive, int. cur, Conscientiousness
 
-My project is based mainly on technologies i have not previusly used,  i had a really big stumbling block right at the start of my internship. The front end involved HTML, CSS and javascript with Angular and the backend with java and Reladomo’ However recognising this as also a great learning opportunity i pushed through it and collecting all the resources I needed, which are all available at GS and building the software one component at a time, I was able to come up with working front end scripts In three weeks
-I have made extensive use of online resources like Pluralsight, w3schools and tutorialspoint and confluence for an overview of all of these. For more specific problems I encountered in using these I asked team members, other interns and also the developers at the EMEA NIC drop in sessions. 
-One of such instance is when I wrote a python project that uses REST APIs to query a database following instructions from a video on pluralsight so as to understand the concept of APIs, end points and resources. This knowledge was needed in the backend of my project.
-I realise that the success or  failure of  my project depends mainly on me therefore I set some goals per week for my project and made sure I achieved them. I made sure to get an understanding of the project, its users and the requirements.
+Since I started my internship I have been introduced to standard development practices and techniques. In my first five weeks I could identify my top strengths as: Tenacity and drive, Intellectual curiosity and conscientiousness.
 
 
-With my love for solving difficult problems I sometimes spend time trying to figure out solutions which my team member would have on their finger tips especially in my first few weeks. I learnt from that pretty quickly. If I have difficulty with any tool now and I dont find help online, i ask either my team, other interns or other developers on symphony.
+My project is based mainly on technologies I have not previously used. The front end involved HTML, CSS and JavaScript with Angular and the backend with Java and Reladomo. This was a big challenge, right at the start of my internship as I had only ever written Python scripts. However, recognising this as also a great learning opportunity I pushed through it and, collecting all the resources I needed, I was able to build the software one component at a time. I came up with working front end scripts in three weeks. This I believe shows tenacity.
 
+As to intellectual curiosity, I have leveraged online resources including Pluralsight, w3schools and tutorialspoint and confluence to gain understanding of the languages and tools I need. I built a python project that does my project’s basic functions following instructions from a video on pluralsight. This was to fully understand the workings of the backend of my project using a language I was familiar with.
+For more specific problems I have asked my team members, other interns and also the developers at the EMEA NIC drop in sessions. 
+
+I realise that the success or failure of my project depends mainly on me therefore I set some goals per week for my project and made sure I achieved them. I made sure to get an understanding of the project, its users and the requirements.
+
+**********************************************************************************************************
+*************************************  Just list the points and give examples  ***************************
+**********************************************************************************************************
 
 
 
